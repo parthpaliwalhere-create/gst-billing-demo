@@ -92,7 +92,7 @@ This project helped explore:
 
 ## Note
 
-This project was developed as a learning project with AI assistance. The requirements, testing process, feature design, and project decisions were driven by the developer.
+This project was developed as a learning project with AI assistance(80%). The requirements, testing process, feature design, and project decisions were driven by the developer.
 
 ## Author
 
