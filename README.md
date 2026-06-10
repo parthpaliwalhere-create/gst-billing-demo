@@ -63,25 +63,15 @@ Add screenshots here:
 * GST Export
 * Reports Dashboard
 
-## Installation
+## Download
 
-1. Clone the repository
+Download the latest version from the Releases section.
 
-```bash
-git clone https://github.com/YOUR_USERNAME/gst-billing-demo.git
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the application
-
-```bash
-python app.py
-```
+1. Open the Releases page.
+2. Download the latest ZIP file.
+3. Extract the ZIP.
+4. Run the application executable.
+5. No Python installation is required.
 
 ## Project Structure
 
