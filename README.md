@@ -73,19 +73,6 @@ Download the latest version from the Releases section.
 4. Run the application executable.
 5. No Python installation is required.
 
-## Project Structure
-
-```text
-gst-billing-demo
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── screenshots/
-├── backups/
-└── data/
-```
-
 ## Disclaimer
 
 This repository contains a demonstration version only.
