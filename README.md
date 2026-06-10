@@ -55,13 +55,6 @@ This project was created as a learning project to explore desktop application de
 
 ## Screenshots
 
-Add screenshots here:
-
-* Login Screen
-* Invoice Creation
-* Customer Management
-* GST Export
-* Reports Dashboard
 
 ## Download
 
@@ -92,7 +85,9 @@ This project helped explore:
 
 ## Note
 
-This project was developed as a learning project with AI assistance(80%). The requirements, testing process, feature design, and project decisions were driven by the developer.
+This project was developed as a learning project with AI assistance.
+
+AI tools were used to help generate, review, and improve code. The project requirements, testing, feature design, debugging, and implementation decisions were directed by the developer.
 
 ## Author
 
