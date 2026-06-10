@@ -52,10 +52,10 @@ This project was created as a learning project to explore desktop application de
 ![Dashboard](screenshots/dashboard.png)
 
 ### Invoices Tab
-![Invoices Tab](screenshots/invoice history.png)
+![Invoices Tab](screenshots/invoice-history.png)
 
 ### Monthly Reports
-![Monthly Reports](screenshots/monthly reports.png)
+![Monthly Reports](screenshots/monthly-reports.png)
 
 ## Technologies Used
 
