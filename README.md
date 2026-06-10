@@ -43,6 +43,17 @@ This project was created as a learning project to explore desktop application de
 * Password protection
 * Configurable records storage location
 
+
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Invoices Tab
+![Invoices Tab](screenshots/invoices.png)
+
 ## Technologies Used
 
 * Python
@@ -52,9 +63,6 @@ This project was created as a learning project to explore desktop application de
 * Python-Docx
 * Pillow
 * QRCode
-
-## Screenshots
-
 
 ## Download
 
